@@ -6,7 +6,7 @@ func _ready():
 	$coins.text=String(coins)
 	
 func _physics_process(delta):
-	if coins == 10:
+	if coins == 12:
 		get_tree().change_scene("res://World.tscn")
 
 func _on_coins_collected():
