@@ -5,11 +5,14 @@
 
 # GOAL
 <strong> COLLECT 12 COINS TO WIN </strong> <br/>
-When 12 coints are collected : the game is won and then the game restarts </br>
-</br>
+When 12 coints are collected : the game is won and then the game restarts. </br>
+
 <strong> AVOID ENEMIES OR KILL THEM </strong> <br/>
-When player bumps into enemies, the player instantly dies and the games restart.</br>
-Player can kill the enemy by jumping up to the enemy. </br>
+When player bumps into enemies, the player instantly dies and the game restarts.</br>
+Player can kill the enemes by jumping up to the them. </br>
+
+<strong> DON'T FALL OFF THE PLATFORMS </strong> </br>
+The player instantly dies when they fall off the platforms then the game restarts. </br>
 
 # MECHANICS
 Move right :  D  key / -> (right) key </br>
