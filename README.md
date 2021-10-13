@@ -1,6 +1,8 @@
 # GIM_Platformer
 <strong> Training Clan Programming GIM 1: A simple platformer game </strong> <br/>
-<strong> Authors :</strong>  Rachel Gabriela Chen (discord : rach#5368) & Johann Christian Kandani (discord : Genvictus#2361) <br/>
+
+<strong> Authors :</strong>  <ol> <li> Rachel Gabriela Chen (discord : rach#5368)</li> 
+  <li> Johann Christian Kandani (discord : Genvictus#2361)</li> </ol>
 <strong> Party </strong>: 3 <br/>
 
 # GOAL
